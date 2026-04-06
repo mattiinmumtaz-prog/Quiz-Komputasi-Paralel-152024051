@@ -1,7 +1,7 @@
 # Quiz Komputasi Paralel dan Sistem Terdistribusi
 
 ## Nama
-(isi nama kamu)
+M. Attiin Mumtaz
 
 ## NRP
 152024051
@@ -22,4 +22,4 @@ Hal ini ditunjukkan dengan Process ID (PID) yang berbeda.
 
 ## Cara Menjalankan
 ```bash
-python task_parallel_152024051.py
+python task_parallel.py
