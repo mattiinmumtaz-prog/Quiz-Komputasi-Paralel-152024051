@@ -1,0 +1,1 @@
+# Quiz-Komputasi-Paralel-152024051
